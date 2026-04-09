@@ -1,4 +1,4 @@
-public class Main {
+public class MainFiguras {
     public static void main(String[] args) {
         Shape myShape = new Shape("Azul", true);
         System.out.println(myShape);

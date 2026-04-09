@@ -1,4 +1,4 @@
-public class Main {
+public class MainAnimales {
     public static void main(String[] args) {
         Animal myMammal = new Mammal("Gorila");
         System.out.println(myMammal);
