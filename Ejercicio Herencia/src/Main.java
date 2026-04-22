@@ -22,7 +22,7 @@ public class Main {
 
         input.nextLine();
 
-        //video
+        // video
         System.out.println("\nAhora vamos a crear un video!");
         System.out.println("Título:");
         String tituloV = input.nextLine();
