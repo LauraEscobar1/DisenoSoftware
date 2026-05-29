@@ -2,7 +2,7 @@
 public class Mammal extends Animal {
 
     public Mammal(String name) {
-        super(name);
+        super(name, Color.NEGRO);
     }
 
     @Override
